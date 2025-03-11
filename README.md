@@ -22,7 +22,7 @@ A simple RESTful API built with Node.js, Express, and MongoDB for managing users
 ## Live Demo
 
 You can test the API live on Glitch:  
-👉 [NodeLab API on Glitch](https://your-glitch-project-name.glitch.me)
+👉 [NodeLab API on Glitch]([https://your-glitch-project-name.glitch.me](https://tartan-elastic-freighter.glitch.me/))
 
 ---
 
