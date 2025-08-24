@@ -18,7 +18,7 @@ const getPosts = async (req, res) => {
     .limit(limit);
   if (!posts?.length) {
     throw new APIError("No posts found", 404);
-  }
+  }      
 
   let upPosts = posts.map((post) =>{if( ( post.userId.toString()) != (req.user._id.toString()))
   {
