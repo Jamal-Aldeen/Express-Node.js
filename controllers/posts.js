@@ -27,7 +27,7 @@ const getPosts = async (req, res) => {
   return post;
   });
   
-
+           
   const pagination = {
     page,
     numberOfPages,
